@@ -7,4 +7,4 @@
 HTCVive専用のホラーゲームです。　　
 
 操作方法  
-![](Assets/Images/setumeizu.psd)
+![](controller.jpg)
