@@ -5,3 +5,6 @@
 動作環境：Windows 10  
 
 HTCVive専用のホラーゲームです。　　
+
+操作方法  
+![](Assets/Images/setumeizu.psd)
